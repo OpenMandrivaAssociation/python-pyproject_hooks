@@ -1,5 +1,5 @@
 Name:		python-pyproject_hooks
-Version:	1.1.0
+Version:	1.2.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/pyproject_hooks/pyproject_hooks-%{version}.tar.gz
 Summary:	Wrappers to call pyproject.toml-based build backend hooks.
